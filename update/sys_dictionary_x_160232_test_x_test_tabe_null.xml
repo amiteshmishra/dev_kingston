@@ -54,15 +54,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-17 14:56:47</sys_created_on>
-        <sys_id>f8f923004fd1e3407af8f9aba310c7b5</sys_id>
+        <sys_id>e44baf804fd1e3407af8f9aba310c776</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_160232_test_x_test_tabe</sys_name>
         <sys_package display_value="test" source="x_160232_test">087927cc4f91e3407af8f9aba310c7f8</sys_package>
         <sys_policy/>
         <sys_scope display_value="test">087927cc4f91e3407af8f9aba310c7f8</sys_scope>
-        <sys_update_name>sys_dictionary_x_160232_test_x_test_tabe_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-10-17 14:56:47</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_160232_test_x_test_tabe_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-10-17 15:02:30</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
